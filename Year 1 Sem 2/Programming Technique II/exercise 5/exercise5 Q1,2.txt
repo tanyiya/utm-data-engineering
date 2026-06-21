@@ -1,0 +1,13 @@
+Name: Tan Yi Ya   A23CS0187
+Name: Teh Ru Qian A23CS0191
+
+Question 1: Relationships
+Mentee and Student: Inheritance (Mentee inherits from Student)
+Mentee and Mentor: Association (Mentee has a Mentor as an attribute)
+Coach and Mentor: Inheritance (Coach inherits from Mentor)
+Coach and Student: Indirect Inheritance (Coach inherits from Mentor which in turn inherits from Student)
+Coach and Mentee: No direct relationship (Both inherit from Student but are otherwise independent)
+
+Question 2: Virtual Methods
+print() in Mentor: This method should be virtual because the printing mechanism varies between Coach (expertise) and Support (phone).
+edit() in Mentor: This method should be virtual because the editing mechanism varies between Coach (expertise) and Support (phone).
