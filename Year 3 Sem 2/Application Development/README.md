@@ -18,11 +18,11 @@ The academic and practical deliverables were realized across three distinctive p
 
 #### 1. Fundamental Implementations (Lab 1)
 The initial phase involved the architectural design of a daily activity management system. This module served as a practical application of core Flutter widgets, user interface (UI) principles, and basic local **CRUD (Create, Read, Update, Delete)** data storage operations. Users were empowered to asynchronously add, organize, categorize, and purge data structures mapped to temporal and categorical constraints.
-* *Associated Deliverable:* `[AD Lab 1.pdf](AD%20Lab%201.pdf)`
+* *Associated Deliverable:* [AD Lab 1.pdf](AD%20Lab%201.pdf)
 
 #### 2. Industry Requirements Analysis & Scoping (Lab 2)
 Bridging technical execution with business strategy, this phase simulated a commercial client engagement. Acting within a development team "Group Pizza", a rigorous project proposal was synthesized based on explicit industry partner specifications. The process required defining technical boundaries, identifying essential system modules, allocating architectural roles among engineers, and establishing mandatory functional requirements.
-* *Associated Deliverable:* `[Lab 2 Proposal — Section 2 (Group Pizza).pdf](Lab2_Proposal_Section2_GroupPizza.pdf)`
+* *Associated Deliverable:* [Lab 2 Proposal — Section 2 (Group Pizza).pdf](Lab2_Proposal_Section2_GroupPizza.pdf)
 
 #### 3. Enterprise Capstone Deployment (Project)
 The culmination of the course resulted in the deployment of a centralized, multi-tenant educational management system designed for *Tadika Genius Aulad*. This production-targeted platform addressed administrative bottlenecks by bridging communication and workflows between educators and administrators. 
