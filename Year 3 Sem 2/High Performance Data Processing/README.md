@@ -6,7 +6,7 @@ The programmatic deliverables and technical breakthroughs achieved throughout th
 
 ### 🎓 Serverless vs On Premise Architecture
 To establish a strong foundation in critical engineering analysis, the initial phase focused on rigorous research methodologies and formal technical writing. This culminated in an academic paper formatted to strict standards, exploring modern high-performance computing frameworks, optimization trade-offs, and data system paradigms. Continuous progress was systematically documented via structured logbook tracking to maintain research discipline and reproducible workflows.
-* **Associated Deliverable:** `[HPDP IEEE Paper (PDF)](HPDP%20IEEE%20Paper.pdf)`
+* **Associated Deliverable:** [HPDP IEEE Paper (PDF)](HPDP%20IEEE%20Paper.pdf)
 
 ### 🐘 Large-Scale In-Memory Data Optimization
 Addressing the physical limitations of traditional processing tools when confronted with large out-of-memory datasets, this segment applied defensive computational strategies in Python to handle data volumes exceeding 700MB. Techniques executed to optimize RAM efficiency and CPU cycles included:
@@ -27,7 +27,7 @@ This project mandated the design and optimization of an enterprise-grade web scr
 
 Key technical hurdles resolved included bypassing anti-scraping mechanisms, enforcing ethical crawling protocols, and mitigating I/O and CPU bottlenecks. Optimization techniques involved moving from sequential execution to aggressive **multithreading** and **multiprocessing**. The final system was validated through a comprehensive performance audit comparing pre- and post-optimization latency and throughput graphs.
 * **Project Repository:** [Project 1 — High-Performance Web Crawler](https://github.com/drshahizan/HPDP/tree/main/2526/project/p1/shopping)
-* **Associated Deliverable:** `[HPDP Report P1 (PDF)](HPDP%20Report%20P1.pdf)`
+* **Associated Deliverable:** [HPDP Report P1 (PDF)](HPDP%20Report%20P1.pdf)
 
 #### 2. Real-Time Distributed Sentiment Streaming (Project 2)
 The final milestone shifted focus from batch processing to continuous data streams, constructing a live end-to-end sentiment analysis pipeline capturing Malaysian social media and product review telemetry. 
