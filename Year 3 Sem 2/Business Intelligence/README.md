@@ -4,4 +4,7 @@ Materials for Business Intelligence and reporting.
 
 Files:
 
-- No files in this folder yet.
+- **[Industrial Talk Report](industrial-talk-report.pdf)**
+- **[Phase 1](Phase%201.pdf)**
+- **[Phase 2](Phase%202.pdf)**
+- **[Phase 3](Phase%203.pdf)**

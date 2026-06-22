@@ -4,4 +4,5 @@ Notes and materials for High Performance Data Processing.
 
 Files:
 
-- No files in this folder yet.
+- **[HPDP IEEE Paper](HPDP%20IEEE%20Paper.pdf)**
+- **[HPDP Report P1](HPDP%20Report%20P1.pdf)**
