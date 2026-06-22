@@ -1,3 +1,13 @@
+# Discrete Structure
+
+Course materials, assignments, and notes for Discrete Structure.
+
+Files:
+
+- **[Assignment 1](assignment%201.pdf)**
+- **[Assignment 2](ASSIGNMENT%202.pdf)**
+- **[Assignment 3](assignment%203.pdf)**
+- **[ReadMe](ReadMe.md)**
 ## Discrete Structure: Reflection
 
 

@@ -1,3 +1,14 @@
+# Technology and Information System
+
+Materials for Technology and Information System.
+
+Files:
+
+- **[Character Development Talk](character%20development%20talk.jpg)**
+- **[Group 6 TIS Design Thinking Assignment](Group%206%20TIS%20Design%20Thinking%20Assignment.pdf)**
+- **[Industry Talk 2 (Group 6)](Industry%20Talk%202(Group%206).pdf)**
+- **[ReadMe](ReadMe.md)**
+- **[TIS Industrial Visit Newsletter](TIS%20Industrial%20Visit%20Newsletter.pdf)**
 ## Technology and Information System : Reflection
 
 
