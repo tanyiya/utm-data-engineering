@@ -10,13 +10,12 @@ This repository serves as my academic portfolio, documenting my journey through 
 
 | Semester | Link |
 |---|---|
-| Year 1 — Semester 1 | [📁 Y1S1](Year%1%Sem%1) |
-| Year 1 — Semester 2 | [📁 Y1S2](Year%1%Sem%2) |
-| Year 2 — Semester 1 | [📁 Y2S1](Year%2%Sem%1) |
-| Year 2 — Semester 2 | [📁 Y2S2](Year%2%Sem%2) |
-| Year 3 — Semester 1 | [📁 Y3S1](Year%3%Sem%1) |
-| Year 3 — Semester 2 | [📁 Y3S2](Year%3%Sem%2) |
-
+| 🚀 Year 1 — Semester 1 | [📁 Y1S1](Year%201%20Sem%201) |
+| 🏎️ Year 1 — Semester 2 | [📁 Y1S2](Year%201%20Sem%202) |
+| 🛫 Year 2 — Semester 1 | [📁 Y2S1](Year%202%20Sem%201) |
+| 🛠️ Year 2 — Semester 2 | [📁 Y2S2](Year%202%20Sem%202) |
+| 🎓 Year 3 — Semester 1 | [📁 Y3S1](Year%203%20Sem%201) |
+| 🏆 Year 3 — Semester 2 | [📁 Y3S2](Year%203%20Sem%202) |
 ---
 
 ## 📚 Coursework
